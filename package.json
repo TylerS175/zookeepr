@@ -12,5 +12,14 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TylerS175/zookeepr.git"
+  },
+  "bugs": {
+    "url": "https://github.com/TylerS175/zookeepr/issues"
+  },
+  "homepage": "https://github.com/TylerS175/zookeepr#readme"
 }
